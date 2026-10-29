@@ -1,0 +1,10 @@
+# AI 视觉赋能下的垃圾识别分类科普系统
+
+本仓库收录项目展示与设计资料。
+
+- [2.项目ppt：AI视觉赋能下的垃圾识别分类科普系统.pptx](2.%E9%A1%B9%E7%9B%AEppt%EF%BC%9AAI%E8%A7%86%E8%A7%89%E8%B5%8B%E8%83%BD%E4%B8%8B%E7%9A%84%E5%9E%83%E5%9C%BE%E8%AF%86%E5%88%AB%E5%88%86%E7%B1%BB%E7%A7%91%E6%99%AE%E7%B3%BB%E7%BB%9F.pptx)
+- [3.作品演示视频：AI赋能下垃圾分类识别科普系统使用介绍.mp4](3.%E4%BD%9C%E5%93%81%E6%BC%94%E7%A4%BA%E8%A7%86%E9%A2%91%EF%BC%9AAI%E8%B5%8B%E8%83%BD%E4%B8%8B%E5%9E%83%E5%9C%BE%E5%88%86%E7%B1%BB%E8%AF%86%E5%88%AB%E7%A7%91%E6%99%AE%E7%B3%BB%E7%BB%9F%E4%BD%BF%E7%94%A8%E4%BB%8B%E7%BB%8D.mp4)
+- [4.项目报告：AI赋能下的轻量化常见垃圾识别分类系统.docx](4.%E9%A1%B9%E7%9B%AE%E6%8A%A5%E5%91%8A%EF%BC%9AAI%E8%B5%8B%E8%83%BD%E4%B8%8B%E7%9A%84%E8%BD%BB%E9%87%8F%E5%8C%96%E5%B8%B8%E8%A7%81%E5%9E%83%E5%9C%BE%E8%AF%86%E5%88%AB%E5%88%86%E7%B1%BB%E7%B3%BB%E7%BB%9F.docx)
+- [5.项目设计文档.pdf](5.%E9%A1%B9%E7%9B%AE%E8%AE%BE%E8%AE%A1%E6%96%87%E6%A1%A3.pdf)
+
+PPT 与演示视频通过 Git LFS 存储。克隆仓库后，请安装 Git LFS 并执行 `git lfs pull` 以获取完整文件。
